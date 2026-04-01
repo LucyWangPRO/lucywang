@@ -1,42 +1,44 @@
-# Hi, I'm Yi Sun 👋
+# Hi, I'm Lucy Wang 👋
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/yi-sun-ba2b8091/">
+  <a href="https://www.linkedin.com/in/lucy1116/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
   </a>
 </div>
 
 <br>
 
-**Software Engineer at Google DeepMind | Specializing in LLMs, Agentic Systems, and Web Development**
+**Machine Learning Engineer at Google DeepMind | Gemini Team**
 
-I am a Software Engineer currently working at Google DeepMind. My recent work heavily focuses on developing and evaluating large language models (LLMs), specifically the Gemini Chatbot and Gemini in Chrome (web context, multimodal). I have a strong background in backend development, web technologies, and building robust infrastructure.
+I am a Machine Learning Engineer passionate about advancing AI capabilities. Currently, I work on the Gemini team at Google DeepMind, focusing on improving the model's tool-use capabilities through post-training and building integrations with Google ecosystems like Workspace and Shopping. My background spans NLP research, content moderation modeling, and end-to-end ML model development.
 
-### 🚀 What I'm Working On
-* 🤖 **Current Focus:** Gemini Chatbot, Gemini in Chrome, Agentic Systems, Tool Use, and Model Eval & Infrastructure at **Google DeepMind**.
-* 💳 **Previous Google Work:** Developed and maintained the Google Payments platform.
-* 🛡️ **Prior Experience:** Worked on the management plane of VMware's AppDefense (datacenter endpoint security) and healthcare software development at Epic Systems.
+### 🤖 Current Focus
+* **Google DeepMind:** Enhancing Gemini's tool-use capabilities via post-training techniques.
+* **Ecosystem Integration:** Building Gemini's integrations with Google Workspace, Google Shopping, and more.
 
-### 💻 Tech Stack & Skills
-* **AI & Machine Learning:** Large Language Models (LLM), Model Evaluation, Agentic Workflows.
+### 💻 Core Expertise & Tech Stack
+* **Domains:** Machine Learning, Natural Language Processing (NLP), Large Language Models (LLM), Content Moderation, DeepFake Detection, Supervised Fine-Tuning (SFT).
+* **Skills:** Model Training, Post-Training, Project Management, Data Science.
 * **Languages:** Python, Java.
-* **Web & Frameworks:** Web Development, Spring, Struts, J2EE Web Services.
 
 ### 💼 Professional Experience
 
-* **Google DeepMind** | *Software Engineer* (Jun 2023 – Present)
-  * Developing Gemini Chatbot and Gemini in Chrome (multimodal/web context).
-  * Working on Agentic capabilities, Tool Use, and model evaluation/infrastructure.
-* **Google** | *Software Engineer* (Dec 2019 – Jun 2023)
-  * Engineering the Google payments platform.
-* **VMware** | *Senior Member of Technical Staff / MTS* (Nov 2016 – Dec 2019)
-  * Built the management plane for VMware AppDefense, focusing on endpoint security in virtualized environments.
-* **Epic Systems Corporation** | *Software Developer* (Jul 2015 – Nov 2016)
-* **USC Viterbi School of Engineering** | *Course Producer of Web Technologies* (Aug 2014 – May 2015)
-* **Collective[i]** | *Software Engineering Intern (Java/J2EE)* (May 2014 – Aug 2014)
+* **Google DeepMind** | *Machine Learning Engineer* (Feb 2024 – Present)
+  * Improving Gemini tool-use capabilities through post-training.
+* **Hive** | *Machine Learning Engineer* (Feb 2023 – Feb 2024)
+  * Built content moderation models and owned end-to-end model releases.
+  * Trained DeepFake detection models and improved LLM quality through SFT and pre-training.
+* **Columbia University** | *NLP Research Assistant* (Sep 2021 – Feb 2023)
+* **Meta** | *Machine Learning Engineer Intern* (May 2022 – Aug 2022)
+  * Focused on content moderation for Facebook Marketplace.
+* **Goldman Sachs** | *Quantitative Strategy Summer Analyst* (Jun 2021 – Aug 2021)
+  * Built ML features for pricing extraction in the Bloomberg terminal.
+* **Momentive.ai** | *Software Engineer Intern* (Jun 2020 – Aug 2020)
+* **Data Science Society at Berkeley** | *Career Development Committee Director* (Aug 2018 – Feb 2019)
 
 ### 🎓 Education
-* **University of Southern California (USC)** | *Details not explicitly listed in snippet, but implied by alumni status and Course Producer role.*
+* **Columbia University** | *Master of Science (M.S.), Computer Science* (2021 – 2022)
+* **University of California, Berkeley** | *Bachelor's degree, Computer Science, Statistics* (2017 – 2021)
 
 ---
-⭐️ *Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yi-sun-ba2b8091/)*
+⭐️ *Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lucy1116/)*
